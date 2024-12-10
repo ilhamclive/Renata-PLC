@@ -101,7 +101,7 @@ cd Renata-PLC
 cd task2
 ```
 
-### 2. Set Up Backend
+### 3. Set Up Backend
 
 - Navigate to the `backend` directory:
   ```bash
@@ -127,7 +127,7 @@ cd task2
   ```
   ```
 
-### 3. Set Up Frontend
+### 4. Set Up Frontend
 
 - Navigate to the `frontend` directory:
   ```bash
@@ -142,7 +142,7 @@ cd task2
   npm start
   ```
 
-### 4. Access the Application
+### 5. Access the Application
 
 - Open your browser and navigate to `http://localhost:3000` for the frontend.
 - Backend runs on `http://localhost:<PORT>` as defined in `.env`.
