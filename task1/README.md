@@ -81,16 +81,20 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ilhamclive/Renata-PLC.git
+   ```
+
+2. **Navigate to the repository folder:**
+   ```bash
    cd Renata-PLC
    cd task1
    ```
 
-2. **Install dependencies:**
+3. **Install dependencies:**
    ```bash
    npm install
    ```
 
-3. **Run the project:**
+4. **Run the project:**
    ```bash
    npm start
    ```
