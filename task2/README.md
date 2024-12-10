@@ -92,7 +92,12 @@ Before running the project, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ilhamclive/task2.git
+git clone https://github.com/ilhamclive/Renata-PLC.git
+```
+
+### 2. Navigate to the repository folder:
+```bash
+cd Renata-PLC
 cd task2
 ```
 
