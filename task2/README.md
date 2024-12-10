@@ -1,4 +1,4 @@
-# Task 2 Project
+# Task 2: Fullstack Project
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,6 +12,7 @@
   - [Access the Application](#4-access-the-application)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -37,14 +38,19 @@ Here's the folder structure of the project:
 task2/
 ├── backend/
 │   ├── controllers/
-│   │   ├── dataControllers.js     # Handles logic for fetching and parsing CSV data
+│   │   ├── dataControllers.js       # Handles logic for fetching and parsing CSV data
 │   ├── routes/
-│   │   ├── dataRoutes.js          # Defines API endpoints for CSV data operations
-│   ├── .env                       # Environment variables for sensitive information like API keys
-│   ├── app.js                     # Entry point for the backend server, sets up routes and middleware
-│   ├── package.json               # Node.js dependencies and project metadata
+│   │   ├── dataRoutes.js            # Defines API endpoints for CSV data operations
+│   ├── .env                         # Environment variables for sensitive information like API keys
+│   ├── app.js                       # Entry point for the backend server, sets up routes and middleware
+│   ├── package.json                 # Node.js dependencies and project metadata
 │
 ├── frontend/
+│   ├── assets/                      # Contains project assets such as images, screenshots, and other media files
+│   │   ├── HomePage.png             # Screenshot for HomePage
+│   │   ├── Chart.png                # Screenshot for Chart
+│   │   ├── SystemERD.png            # Screenshot for System ERD Diagram
+│   │   ├── DataERD.png              # Screenshot for Data ERD Diagram
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── DataDisplay.js       # Component to display tabular data fetched from the backend
@@ -147,6 +153,21 @@ cd task2
 - **Frontend**: React, Chart.js, React Flow
 - **Backend**: Node.js, Express
 - **Other Tools**: CSV Parsing libraries, Context API
+
+## Screenshots
+
+### HomePage
+![HomePage Screenshot](./assets/HomePage.png)
+
+### Chart
+![System ERD Screenshot](./assets/Chart.png)
+
+### System ERD Diagram
+![System ERD Screenshot](./assets/SystemERD.png)
+
+### Data ERD Diagram
+![Data ERD Screenshot](./assets/DataERD.png)
+
 
 ## Contributing
 
