@@ -30,4 +30,3 @@ For more detailed instructions, refer to the individual README files in `task1/`
 
 ## Contact
 For any issues or inquiries, please contact me at [ilhamclive@example.com].
-```
