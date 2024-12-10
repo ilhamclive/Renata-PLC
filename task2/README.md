@@ -7,9 +7,10 @@
 - [Prerequisites](#prerequisites)
 - [Installation and Setup](#installation-and-setup)
   - [Clone the Repository](#1-clone-the-repository)
-  - [Set Up Backend](#2-set-up-backend)
-  - [Set Up Frontend](#3-set-up-frontend)
-  - [Access the Application](#4-access-the-application)
+  - [Navigate to the repository folder](#1-navigate-to-the-repository-folder)
+  - [Set Up Backend](#3-set-up-backend)
+  - [Set Up Frontend](#4-set-up-frontend)
+  - [Access the Application](#5-access-the-application)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
@@ -95,7 +96,7 @@ Before running the project, make sure you have the following installed:
 git clone https://github.com/ilhamclive/Renata-PLC.git
 ```
 
-### 2. Navigate to the repository folder:
+### 2. Navigate to the repository folder
 ```bash
 cd Renata-PLC
 cd task2
