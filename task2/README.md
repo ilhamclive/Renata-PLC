@@ -124,7 +124,7 @@ cd task2
 
 - Start the server:
   ```bash
-  npm start
+  npm run dev
   ```
 
 ### 4. Set Up Frontend
