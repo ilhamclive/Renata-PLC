@@ -7,7 +7,7 @@
 - [Prerequisites](#prerequisites)
 - [Installation and Setup](#installation-and-setup)
   - [Clone the Repository](#1-clone-the-repository)
-  - [Navigate to the repository folder](#1-navigate-to-the-repository-folder)
+  - [Navigate to the repository folder](#2-navigate-to-the-repository-folder)
   - [Set Up Backend](#3-set-up-backend)
   - [Set Up Frontend](#4-set-up-frontend)
   - [Access the Application](#5-access-the-application)
