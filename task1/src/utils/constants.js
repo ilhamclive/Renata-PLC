@@ -1,0 +1,2 @@
+export const TASK1A_CSV_URL = "https://docs.google.com/spreadsheets/d/1FmYWCgVVsHIFoTPfH39gTBCeL1Oz8n-c/gviz/tq?tqx=out:csv";
+export const TASK1B_CSV_URL = "https://docs.google.com/spreadsheets/d/1FmYWCgVVsHIFoTPfH39gTBCeL1Oz8n-c/export?format=csv&gid=945873077";
