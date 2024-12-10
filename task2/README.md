@@ -125,7 +125,6 @@ cd task2
   ```bash
   npm start
   ```
-  ```
 
 ### 4. Set Up Frontend
 
