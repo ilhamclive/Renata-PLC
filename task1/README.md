@@ -48,10 +48,10 @@ Below is the folder structure of the project, with comments to explain the purpo
 
 ```
 task1/
-├── src/                       # Source code directory
 ├── assets/                    # Contains project assets such as images, screenshots, and other media files
 │   ├── task1a.png             # Screenshot for Task 1 (a) - Interactive Bar Chart
 │   ├── task1b.png             # Screenshot for Task 1 (b) - Sales Comparison Chart
+├── src/                       # Source code directory
 │   ├── components/            # Reusable components for the charts
 │   │   ├── BarChartComponentA.jsx   # Renders Task 1 (a) bar chart
 │   │   ├── BarChartComponentB.jsx   # Renders Task 1 (b) composed chart
