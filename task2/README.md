@@ -157,16 +157,16 @@ cd task2
 ## Screenshots
 
 ### HomePage
-![HomePage Screenshot](./assets/HomePage.png)
+![HomePage Screenshot](./frontend/assets/HomePage.png)
 
 ### Chart
-![System ERD Screenshot](./assets/Chart.png)
+![System ERD Screenshot](./frontend/assets/Chart.png)
 
 ### System ERD Diagram
-![System ERD Screenshot](./assets/SystemERD.png)
+![System ERD Screenshot](./frontend/assets/SystemERD.png)
 
 ### Data ERD Diagram
-![Data ERD Screenshot](./assets/DataERD.png)
+![Data ERD Screenshot](./frontend/assets/DataERD.png)
 
 
 ## Contributing
